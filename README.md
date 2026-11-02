@@ -37,6 +37,9 @@ My work connects **research quality** with **engineering discipline**: reproduci
   </tr>
 </table>
 
+<!-- AUTO-PUBLIC-PROJECTS:START -->
+<!-- AUTO-PUBLIC-PROJECTS:END -->
+
 ### 🔬 Other selected work and research interests
 
 - **Computer vision and video analytics:** Real-time object detection, multi-object tracking, event-driven alerting, and evidence integrity in the **NETRAKSH** system. Project details are summarized here without linking to non-public source code.
