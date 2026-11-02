@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="390" viewBox="0 0 1400 390" role="img" aria-labelledby="title desc">
+  <title id="title">Subham Swastik Dhal — AI and Software Engineering</title>
+  <desc id="desc">A professional dark blue technology banner with cyan gradient lighting and connected network nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#050B1B"/><stop offset="0.58" stop-color="#0A1730"/><stop offset="1" stop-color="#102F50"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#2B8EFF"/><stop offset="1" stop-color="#57F4DA"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#18B8EC" stop-opacity="0.22"/><stop offset="1" stop-color="#18B8EC" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#83BAD7" stroke-width="0.65" opacity="0.11" fill="none"/></pattern>
+  </defs>
+  <rect x="0" y="0" width="1400" height="390" rx="26" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1400" height="390" rx="26" fill="url(#grid)"/>
+  <circle cx="1140" cy="185" r="300" fill="url(#glow)"/>
+  <path d="M62 78 H122" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+  <text x="62" y="126" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" letter-spacing="5" fill="#67E5EB" font-weight="700">ENGINEERING · INTELLIGENCE · RESEARCH</text>
+  <text x="60" y="224" font-family="DejaVu Sans, Arial, sans-serif" font-size="68" fill="#F4FAFF" font-weight="700">Subham Swastik Dhal</text>
+  <text x="63" y="276" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" fill="#B9CFE8">From research ideas to dependable intelligent systems</text>
+  <path d="M64 316 H730" stroke="url(#line)" stroke-width="2" opacity="0.7"/>
+  <text x="63" y="350" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#73D7EE" letter-spacing="2.2">BUILD  /  VALIDATE  /  IMPROVE</text>
+  <g transform="translate(80 0)">
+  <g fill="none" stroke="#46BDDA" stroke-width="2" opacity="0.42">
+    <path d="M912 102L1011 58L1138 102L1227 64L1320 126L1259 219L1358 293L1208 333L1091 275L964 318L874 237Z"/>
+    <path d="M912 102L1091 275L1138 102L1259 219L1011 58L964 318L1227 64L1208 333L1320 126"/>
+  </g>
+  <g fill="#0B2442" stroke="#6BE7F1" stroke-width="3">
+    <circle cx="912" cy="102" r="11"/><circle cx="1011" cy="58" r="8"/><circle cx="1138" cy="102" r="13"/><circle cx="1227" cy="64" r="9"/>
+    <circle cx="1320" cy="126" r="11"/><circle cx="1259" cy="219" r="14"/><circle cx="1358" cy="293" r="8"/><circle cx="1208" cy="333" r="11"/>
+    <circle cx="1091" cy="275" r="13"/><circle cx="964" cy="318" r="8"/><circle cx="874" cy="237" r="10"/>
+  </g>
+  <g fill="#B3FBF6"><circle cx="912" cy="102" r="3"/><circle cx="1138" cy="102" r="5"/><circle cx="1259" cy="219" r="5"/><circle cx="1091" cy="275" r="5"/><circle cx="1208" cy="333" r="4"/></g>
+  </g>
+  <rect x="1.5" y="1.5" width="1397" height="387" rx="25" fill="none" stroke="#1C607E" stroke-width="3" opacity="0.65"/>
+</svg>
