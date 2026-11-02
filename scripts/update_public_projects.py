@@ -42,7 +42,7 @@ def public_repositories() -> list[dict]:
     while True:
         address = (
             f"https://api.github.com/users/{OWNER}/repos"
-            f"?type=public&sort=updated&direction=desc&per_page=100&page={page}"
+            f"?type=owner&sort=updated&direction=desc&per_page=100&page={page}"
         )
         request = Request(
             address,
