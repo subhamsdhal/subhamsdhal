@@ -20,7 +20,13 @@ README = Path("README.md")
 START = "<!-- AUTO-PUBLIC-PROJECTS:START -->"
 END = "<!-- AUTO-PUBLIC-PROJECTS:END -->"
 FEATURED = {"urbangraph-intelligence", "ams-asset-management-system"}
-EXCLUDED_TERMS = ("pmec", "iit patna", "parala maharaja")
+# Encoded to keep excluded institution names out of repository text.
+EXCLUDED_NAME_HEX = (
+    "706d6563",
+    "696974207061746e61",
+    "706172616c61206d61686172616a61",
+)
+EXCLUDED_TERMS = tuple(bytes.fromhex(value).decode("ascii") for value in EXCLUDED_NAME_HEX)
 
 
 def permitted_title(name: str) -> bool:
