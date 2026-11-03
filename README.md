@@ -38,6 +38,14 @@ My work connects **research quality** with **engineering discipline**: reproduci
 </table>
 
 <!-- AUTO-PUBLIC-PROJECTS:START -->
+### 🌐 More public projects
+
+Additional projects are listed automatically as they become public.
+
+| Project | Primary language |
+| --- | --- |
+| <a href="https://github.com/subhamsdhal/TrustTab-X">TrustTab-X</a> | Python |
+| <a href="https://github.com/subhamsdhal/netraksh">netraksh</a> | Python |
 <!-- AUTO-PUBLIC-PROJECTS:END -->
 
 ### 🔬 Other selected work and research interests
